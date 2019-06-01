@@ -4,6 +4,10 @@ h5{
   color: #ff9240ed;
 }
 
+.navbar-brand,
+.nav-item a {
+  color: black;
+}
 
 footer{
   background-color: #ff9240ed;
